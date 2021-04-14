@@ -5,7 +5,7 @@ Version=1
 SCREENDSIZE=800X480
 SPADDRESS=5000
 [IMG]
-0=0_Homepage.jpg
+0=0_startShow.png
 1=1_keyNum.bmp
 2=2_keyNum.bmp
 3=3_changePasswordPop.jpg
@@ -62,3 +62,4 @@ SPADDRESS=5000
 54=54_sysConfig.png
 55=55_sysConfigBak.png
 56=56_alarmSet.png
+57=57_Homepage.png
