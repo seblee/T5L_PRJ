@@ -28,6 +28,9 @@ DGUSII+T5L_C51
     T5L_C51  v01.01.02.06
 ## note:
 1. page59 PID相关文字修改
+2. page61 outdoorFanSet add elements
+3. page54 增加DO_Mask
+4. 更改alarm Text
 
 ## Author Date:
     lys 2021-10-26 14:24:46
