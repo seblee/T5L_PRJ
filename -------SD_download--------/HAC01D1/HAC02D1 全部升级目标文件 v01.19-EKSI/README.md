@@ -22,6 +22,15 @@ DGUSII+T5L_C51
 
 #### release Note
 ## Author Date:
+    lsy 2021-11-8 19:12:17
+## Date:
+    T5L_UI   v01.01.01
+    T5L_C51  v01.19
+## note:
+1. 增加部分页面显示
+2. 修改告警个数->96
+3. 修改告警文本
+## Author Date:
     lsy 2021-4-14 10:40:02
 ## Date:
     T5L_UI   v01.01.01
