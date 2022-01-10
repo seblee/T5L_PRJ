@@ -69,3 +69,6 @@ SPADDRESS=5000
 61=61_OutdoorFan.png
 62=62_stateUnits.png
 63=63_alarmSet.png
+64=64_lockCtrl.png
+65=65_lock.png
+66=66_lockConfirm.png
