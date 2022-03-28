@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-3-28 10:38:11
+## Date:
+    T5L_UI   v02.01.07.00.15
+    T5L_C51  v02.01.07.00.15
+## note:
+1. 增加EEV模式选择
+2. 排气高温告警设置 改为3位整数
+
+## Author Date:
     lys 2022-3-26 15:29:01
 ## Date:
     T5L_UI   v02.01.07.00.17
