@@ -25,7 +25,7 @@ DGUSII+T5L_C51
 ## Author Date:
     lys 2022-3-31 14:29:27
 ## Date:
-    T5L_UI   v02.01.07.00.16
+    T5L_UI   v02.01.07.00.15
     T5L_C51  v02.01.07.00.16
 ## note:
 1. 增加制冷量参数设置PAGE47
