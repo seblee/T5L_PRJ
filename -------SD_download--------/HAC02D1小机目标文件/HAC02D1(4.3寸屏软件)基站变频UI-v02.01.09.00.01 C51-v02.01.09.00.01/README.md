@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-6-30 19:44:55
+## Date:
+    T5L_UI   v02.01.09.00.01
+    T5L_C51  v02.01.09.00.01
+## note:
+1. 状态 增加加热器2
+2. 增加 加热器2 运行时间
+
+## Author Date:
     lys 2022-6-30 15:49:11
 ## Date:
     T5L_UI   v02.01.09.00.01
