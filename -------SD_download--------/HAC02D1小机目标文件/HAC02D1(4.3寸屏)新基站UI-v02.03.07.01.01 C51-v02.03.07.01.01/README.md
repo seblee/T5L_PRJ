@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-7-11 15:23:06
+## Date:
+    T5L_UI   v02.03.07.01.01
+    T5L_C51  v02.03.07.01.01
+## note:
+1. page39 54 62 气流丢失->风机2
+
+## Author Date:
     lys 2022-7-8 16:22:29
 ## Date:
     T5L_UI   v02.03.07.00.18
