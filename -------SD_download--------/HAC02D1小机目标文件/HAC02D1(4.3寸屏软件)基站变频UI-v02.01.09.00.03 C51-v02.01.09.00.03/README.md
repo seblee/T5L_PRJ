@@ -23,6 +23,16 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-7-22 11:18:38
+## Date:
+    T5L_UI   v02.01.09.00.01
+    T5L_C51  v02.01.09.00.01
+## note:
+1. 调整状态页面数据
+2. 状态-系统 送风温度2 条件显示
+3. 状态-组件 增加MB_S
+
+## Author Date:
     lys 2022-6-30 19:44:55
 ## Date:
     T5L_UI   v02.01.09.00.01
