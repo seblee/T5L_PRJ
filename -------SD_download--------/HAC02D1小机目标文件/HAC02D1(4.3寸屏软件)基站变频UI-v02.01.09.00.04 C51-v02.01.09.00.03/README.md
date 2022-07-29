@@ -25,7 +25,7 @@ DGUSII+T5L_C51
 ## Author Date:
     lys 2022-7-29 11:52:43
 ## Date:
-    T5L_UI   v02.01.09.00.03
+    T5L_UI   v02.01.09.00.04
     T5L_C51  v02.01.09.00.03
 ## note:
 1. 调整组件状态也没 MB_S
