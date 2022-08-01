@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-8-1 14:18:09
+## Date:
+    T5L_UI   v02.01.09.00.04
+    T5L_C51  v02.01.09.00.03
+## note:
+1. 组件状态 增加母线电压
+2. 增加相电流
+
+## Author Date:
     lys 2022-7-29 11:52:43
 ## Date:
     T5L_UI   v02.01.09.00.04
