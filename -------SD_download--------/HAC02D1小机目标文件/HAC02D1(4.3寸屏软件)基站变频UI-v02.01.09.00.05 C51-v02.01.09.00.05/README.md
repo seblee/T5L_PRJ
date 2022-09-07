@@ -23,7 +23,7 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
-    lys 2022-9-2 19:53:21
+    lys 2022-9-7 19:53:21
 ## Date:
     T5L_UI   v02.01.09.00.05
     T5L_C51  v02.01.09.00.05
