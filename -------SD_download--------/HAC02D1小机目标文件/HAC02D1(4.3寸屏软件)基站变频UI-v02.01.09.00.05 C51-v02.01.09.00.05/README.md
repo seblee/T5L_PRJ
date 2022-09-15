@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-9-15 10:43:02
+## Date:
+    T5L_UI   v02.01.09.00.05
+    T5L_C51  v02.01.09.00.05
+## note:
+1. MB_S 16进制->10进制
+
+## Author Date:
     lys 2022-9-7 16:38:29
 ## Date:
     T5L_UI   v02.01.09.00.05
