@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-9-16 13:55:31
+## Date:
+    T5L_UI   v02.01.09.00.06
+    T5L_C51  v02.01.09.00.05
+## note:
+1. 电流增加一位小数
+
+## Author Date:
     lys 2022-9-15 10:43:02
 ## Date:
     T5L_UI   v02.01.09.00.05
