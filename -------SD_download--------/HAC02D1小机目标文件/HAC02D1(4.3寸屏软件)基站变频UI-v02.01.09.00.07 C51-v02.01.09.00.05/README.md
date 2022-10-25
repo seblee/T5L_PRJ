@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-10-24 14:48:19
+## Date:
+    T5L_UI   v02.01.09.00.07
+    T5L_C51  v02.01.09.00.05
+## note:
+1. 修复蒸发温度显示问题
+
+## Author Date:
     lys 2022-9-24 14:48:18
 ## Date:
     T5L_UI   v02.01.09.00.07
