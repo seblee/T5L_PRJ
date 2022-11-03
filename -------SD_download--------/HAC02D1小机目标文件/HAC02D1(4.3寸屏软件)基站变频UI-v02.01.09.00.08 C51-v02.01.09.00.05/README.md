@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-11-3 17:21:18
+## Date:
+    T5L_UI   v02.01.09.00.08
+    T5L_C51  v02.01.09.00.05
+## note:
+1. 修改状态页面EEV开度显示位置
+2. 加湿设置去掉 快速加湿
+
+## Author Date:
     lys 2022-10-24 14:48:19
 ## Date:
     T5L_UI   v02.01.09.00.07
