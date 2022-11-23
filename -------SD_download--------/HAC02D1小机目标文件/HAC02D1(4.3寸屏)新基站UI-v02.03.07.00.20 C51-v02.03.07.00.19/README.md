@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-11-23 11:03:49
+## Date:
+    T5L_UI   v02.03.07.00.20
+    T5L_C51  v02.03.07.00.19
+## note:
+1. 上电给主板发送时间
+
+## Author Date:
     lys 2022-11-16 18:03:55
 ## Date:
     T5L_UI   v02.03.07.00.20
