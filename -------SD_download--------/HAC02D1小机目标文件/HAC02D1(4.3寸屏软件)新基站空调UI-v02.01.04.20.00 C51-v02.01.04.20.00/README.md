@@ -23,12 +23,13 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
-    lys 2022-11-30 11:45:04
+    lys 2022年11月30日18:08:34
 ## Date:
     T5L_UI   v02.01.04.20.00
     T5L_C51  v02.01.04.20.00
 ## note:
 1. 室外风机改为水阀
+2. 去掉机型条件显示
 
 ## Author Date:
     lys 2022-8-16 09:53:39
