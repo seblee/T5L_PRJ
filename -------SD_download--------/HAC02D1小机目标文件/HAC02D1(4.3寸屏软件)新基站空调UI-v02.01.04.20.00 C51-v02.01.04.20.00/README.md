@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-12-1 10:10:43
+## Date:
+    T5L_UI   v02.01.04.20.00
+    T5L_C51  v02.01.04.20.00
+## note:
+1. 修改状态- 水阀 地址
+
+## Author Date:
     lys 2022年11月30日18:08:34
 ## Date:
     T5L_UI   v02.01.04.20.00
