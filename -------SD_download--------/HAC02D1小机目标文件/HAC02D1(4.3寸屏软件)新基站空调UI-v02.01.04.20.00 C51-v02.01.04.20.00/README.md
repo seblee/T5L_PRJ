@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-12-1 17:48:53
+## Date:
+    T5L_UI   v02.01.04.20.00
+    T5L_C51  v02.01.04.20.00
+## note:
+1. 增加水阀调节步长设置
+2. 告警设置 风机设置增加禁止选项
+
+## Author Date:
     lys 2022-12-1 10:10:43
 ## Date:
     T5L_UI   v02.01.04.20.00
