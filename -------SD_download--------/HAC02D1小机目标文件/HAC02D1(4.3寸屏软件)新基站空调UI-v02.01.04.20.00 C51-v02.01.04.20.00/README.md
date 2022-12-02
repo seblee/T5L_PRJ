@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-12-2 17:19:11
+## Date:
+    T5L_UI   v02.01.04.20.00
+    T5L_C51  v02.01.04.20.00
+## note:
+1. 修改加湿器页面
+
+## Author Date:
     lys 2022-12-1 17:48:53
 ## Date:
     T5L_UI   v02.01.04.20.00
