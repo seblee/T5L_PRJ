@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-12-4 15:23:29
+## Date:
+    T5L_UI   v02.01.09.00.08
+    T5L_C51  v02.01.09.00.06
+## note:
+1. 告警设置 增加NTC_AI异常
+
+## Author Date:
     lys 2022-11-4 10:08:50
 ## Date:
     T5L_UI   v02.01.09.00.08
