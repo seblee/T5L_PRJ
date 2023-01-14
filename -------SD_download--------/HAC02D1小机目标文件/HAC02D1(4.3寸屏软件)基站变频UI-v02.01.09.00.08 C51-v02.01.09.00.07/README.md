@@ -23,6 +23,14 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2023-1-14 11:33:03
+## Date:
+    T5L_UI   v02.01.09.00.08
+    T5L_C51  v02.01.09.00.07
+## note:
+1. 告警message ID65保留->ID65变频器故障
+
+## Author Date:
     lys 2022-12-4 15:23:29
 ## Date:
     T5L_UI   v02.01.09.00.08
