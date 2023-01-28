@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2023-1-28 12:11:56
+## Date:
+    T5L_UI   v02.03.07.02.03
+    T5L_C51  v02.03.07.02.04
+## note:
+1. 增加首页群控地址显示
+2. 修改触感器->传感器
+
+## Author Date:
     lys 2023-1-13 15:52:57
 ## Date:
     T5L_UI   v02.03.07.02.02
