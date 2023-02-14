@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2023-2-14 11:17:30
+## Date:
+    T5L_UI   v02.03.07.00.21
+    T5L_C51  v02.03.07.00.21
+## note:
+1. 诊断模式图标 改为白色
+2. 增加抽真空功能
+
+## Author Date:
     lys 2023-2-9 16:36:50
 ## Date:
     T5L_UI   v02.03.07.00.21
