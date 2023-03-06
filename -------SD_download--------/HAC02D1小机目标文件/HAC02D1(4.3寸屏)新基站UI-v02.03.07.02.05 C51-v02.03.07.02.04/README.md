@@ -25,6 +25,14 @@ DGUSII+T5L_C51
 ## Author Date:
     lys 2023-1-31 14:33:47
 ## Date:
+    T5L_UI   v02.03.07.02.05
+    T5L_C51  v02.03.07.02.04
+## note:
+1. 修复部分显示问题
+
+## Author Date:
+    lys 2023-1-31 14:33:47
+## Date:
     T5L_UI   v02.03.07.02.04
     T5L_C51  v02.03.07.02.04
 ## note:
