@@ -25,6 +25,15 @@ DGUSII+T5L_C51
 ## Author Date:
     lys 2023-1-14 11:33:03
 ## Date:
+    T5L_UI   v02.01.09.00.09
+    T5L_C51  v02.01.09.00.07
+## note:
+1. 增加抽真空图标
+
+
+## Author Date:
+    lys 2023-1-14 11:33:03
+## Date:
     T5L_UI   v02.01.09.00.08
     T5L_C51  v02.01.09.00.07
 ## note:
