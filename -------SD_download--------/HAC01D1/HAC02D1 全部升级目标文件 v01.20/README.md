@@ -21,6 +21,15 @@ DGUSII+T5L_C51
 ## warning:含配置文件烧写时，有时有黑屏现象，须等待完全烧写完成(保持上电5分钟)才可断电重启 否则可能出现黑屏无法启动现象
 
 #### release Note
+
+## Author Date:
+    lsy 2023-3-9 16:04:44
+## Date:
+    T5L_UI   v01.01.01
+    T5L_C51  v01.20
+## note:
+1. 修复告警乱码问题
+
 ## Author Date:
     lsy 2021-11-8 19:12:17
 ## Date:
